@@ -121,6 +121,11 @@ main {
 .image-container {
     display: flex;
     justify-content: center;
+    transition: 0.2s ease;
+}
+
+.image-container:hover {
+    filter: grayscale(100%);
 }
 
 .price-container {
@@ -219,7 +224,6 @@ footer i:hover {
 .rights-container a {
     text-decoration: none;
     color: #fbfbfb;
-    font-style: italic;
     transition: 0.2s ease;
 }
 
@@ -271,6 +275,7 @@ footer i:hover {
 
     nav ul {
         flex-direction: column;
+        width: auto;
     }
 
     main {
