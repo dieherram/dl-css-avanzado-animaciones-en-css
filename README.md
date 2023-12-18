@@ -12,7 +12,11 @@ Diseñé la página web con tres layouts distintos: para lograrlo utilicé CSS G
 
 ¡Aquí está el resultado final de mi proyecto!
 
+### Escritorio 💻
 ![Captura de pantalla](./Screenshot.png)
+
+### Móvil 📱
+![Captura de pantalla](./Screenshot-mobile.png)
 
 ### Observaciones y Recomendaciones 🧐
 
